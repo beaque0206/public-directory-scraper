@@ -41,3 +41,15 @@ This project demonstrates how to build a Python script that scrapes public conta
 ## 📁 Output
 
 -Generates `leads_output.xls`
+
+## 💼 Use Cases
+
+- Internal lead generation
+- Web scraping practice
+- Automating structured data extraction from public web pages
+
+## ✅ Reminder
+Always respect:
+- The website's robots.txt file
+- The site's Terms and Conditions
+- Ethical use of any collected data (e.g., no spamming or resale)
